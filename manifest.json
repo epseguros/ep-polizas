@@ -1,0 +1,17 @@
+{
+  "name": "Consulta de Pólizas - EP Seguros e Inversiones",
+  "short_name": "EP Pólizas",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6f8",
+  "theme_color": "#04345C",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
